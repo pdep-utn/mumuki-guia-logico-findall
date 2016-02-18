@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: costoTotalDeHerramientasDemandadas
+  inspection: HasBinding
+- binding: costoTotalDeHerramientasDemandadas
+  inspection: HasArity:1
+- binding: costoTotalDeHerramientasDemandadas
+  inspection: HasUsage:findall
