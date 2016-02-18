@@ -1,6 +1,7 @@
 En este punto, ya sabemos todos los elementos fundamentales de lógico. ¡No parece tanto!
 
-Y sí, lógico es bastante simple: predicados, consultas, individuos, inversibilidad, functores... no hay mucho más que eso. Y además de simple, es declarativo: comenzamos este capítulo hablando de que en logico poco importa el orden de las cosas, todo funcionará como queremos. 
+Y sí, lógico es bastante simple: predicados, consultas, individuos, inversibilidad, functores... no hay mucho más que eso. 
 
-Bueno, casi. 
+Entonces, ¿que veremos a continuación? Una herramienta que escapa un poco al paradigma y echa por tierra algunas cosas que sabíamos, pero que de todas formas muchas veces nos resultará útil: `findall`.
 
+¡Seguínos!
