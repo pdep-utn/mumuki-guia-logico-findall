@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: cuantoFalta
+  inspection: HasUsage:findall
+- binding: cuantoFalta
+  inspection: HasBinding
+- binding: cuantoFalta
+  inspection: HasArity:1
