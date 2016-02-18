@@ -1,4 +1,4 @@
 necesita(maria, pala).
-necesite(maria, sierra).
+necesita(maria, sierra).
 necesita(jose, sarten).
 necesita(hector, sarten).
