@@ -2,7 +2,7 @@ Ahora te toca a vos: escribí un predicado `cuantoFalta/1` que nos diga cuantas 
 
 ```prolog
 necesita(maria, pala).
-necesite(maria, sierra).
+necesita(maria, sierra).
 necesita(jose, sarten).
 necesita(hector, sarten).
 ```
