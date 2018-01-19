@@ -3,4 +3,4 @@ expectations:
 - binding: noLaNecesitaNadie
   inspection: HasNot
 - binding: noLaNecesitaNadie
-  inspection: Not:HasFindall
+  inspection: Not:UsesFindall

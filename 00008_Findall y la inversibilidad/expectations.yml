@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: herramientasDemandadasPor
-  inspection: HasUsage:findall
+  inspection: UsesFindall

@@ -1,7 +1,7 @@
 ---
 expectations:
 - binding: cuantoFalta
-  inspection: HasUsage:findall
+  inspection: UsesFindall
 - binding: cuantoFalta
   inspection: HasBinding
 - binding: cuantoFalta
